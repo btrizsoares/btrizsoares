@@ -2,7 +2,9 @@
 
 <img width="270" height="15" alt="image01" src="https://github.com/user-attachments/assets/bfa2822a-31c5-4b50-aa72-f2068446ba7d" /> <img width="270" height="15" alt="image01" src="https://github.com/user-attachments/assets/6f200a58-fe76-4a4d-bdcb-e929060f4012" />
 
-## About me:
+<div align="center">
+  ## About me:
+</div>
 📍 Brazil.
 
 ⤷ Information Technology student at Universidade Federal Rural do Semi-Árido - UFERSA.
@@ -12,7 +14,6 @@
 <div align="center">
 
 ## 🌐 Contact me
----
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/btrizsdc)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btrizsdc@gmail.com)
