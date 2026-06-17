@@ -9,7 +9,14 @@
 
 💬 Currently focusing on learning and improving my programming skills.
 
-## Socials: 
+<div align="center">
 
+## 🌐 Contact me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/btrizsoares/])
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/btrizsdc)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btrizsdc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/btrizsoares/)
+[![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/starstie)
+
+</div>
