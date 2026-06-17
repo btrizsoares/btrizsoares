@@ -5,7 +5,7 @@
 ## About me:
 📍 Brazil.
 
-⤷ Information Technology student at UFERSA.
+⤷ Information Technology student at Universidade Federal Rural do Semi-Árido - UFERSA.
 
 💬 Currently focusing on learning and improving my programming skills.
 
