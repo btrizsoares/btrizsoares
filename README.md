@@ -2,7 +2,7 @@
 
 # Hello!
 
-# About me:
+## About me:
 📍 Brazil.
 
 ⤷ Information Technology student at UFERSA.
